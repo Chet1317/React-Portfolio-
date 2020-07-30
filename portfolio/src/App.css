@@ -38,12 +38,12 @@
 }
 
 nav{
-  background-color: rgb(145, 165, 255);
+  background-color: rgb(8, 8, 46);
   
 }
 
 .jumbotron, .jumbotron-fluid{
-  background-image: url("https://scontent.fyto1-2.fna.fbcdn.net/v/t31.0-0/p640x640/15590770_10154345537213246_8926413446000695719_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=7aN63aFmUokAX_iHNuz&_nc_ht=scontent.fyto1-2.fna&_nc_tp=6&oh=3ad7a81b62cc1fbb54c2d679b314360c&oe=5F49AE36"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGpAFYZ_fXNKgnr8Osk9k-46zqSAR4h0wvAA&usqp=CAU");
+  background-image: url("https://scontent.fyto1-2.fna.fbcdn.net/v/t31.0-0/p640x640/15590770_10154345537213246_8926413446000695719_o.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_ohc=7aN63aFmUokAX_iHNuz&_nc_ht=scontent.fyto1-2.fna&_nc_tp=6&oh=3ad7a81b62cc1fbb54c2d679b314360c&oe=5F49AE36"), url("https://adcofjoplin.com/wp-content/uploads/2018/08/Black-Wood-Background.jpg");
   background-position: center, top left;
   background-position: top;
   background-repeat: no-repeat,repeat;
@@ -51,18 +51,27 @@ nav{
  width: 100%;
     height: auto;
     height: 520px;
+  
 }
 
-.display-4{
-  color: rgb(0, 0, 0);
+.display-4 {
+  color: #de9220;
+  border-bottom: double;
+  background: #0d0e0ea6;
   font-size: 30px;
-  text-align: right;
+  text-align: left;
+  font-family: monospace;
 }
 
-.lead{
-  text-align: right;
+.lead {
+  text-align: left;
+  color: #9ca4ff;
+  background-color: #00000096;
+  font-family: monospace;
 }
-
+.jumbotron-fluid{
+  margin-top: 1rem;
+}
 
 
 
