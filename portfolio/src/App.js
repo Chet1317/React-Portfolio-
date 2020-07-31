@@ -6,6 +6,8 @@ import {
   Route
 } from "react-router-dom";
 import About from "./components/About";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -15,6 +17,12 @@ function App() {
 
 
   <Switch>
+  <Route path="/contact">
+    <Contact />
+    </Route>
+  <Route path="/portfolio">
+    <Portfolio />
+    </Route>
     <Route path="/">
     <About />
     </Route>
