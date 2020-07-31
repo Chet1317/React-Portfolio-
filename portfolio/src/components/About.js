@@ -3,25 +3,7 @@ import React from "react"
 const About = () => {
     return(
         <div>
-                   <nav className="navbar navbar-expand-lg navbar-light">
-  <a style={{fontFamily:"Permanent Marker", fontVariant:"small-caps", fontSize:"50px", color: "Orange"}} class="navbar-brand">Chet Martin</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li style={{ marginLeft:"600px"}}  class="nav-item active">
-        <a style={{fontFamily:"Saira Stencil One",fontSize:"30px", color: "teal"}} class="nav-link" href="#">About <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a style={{fontFamily:"Saira Stencil One", fontSize:"30px", color: "teal"}} class="nav-link" href="#">Portfolio</a>
-      </li>
-      <li class="nav-item">
-        <a style={{fontFamily:"Saira Stencil One",fontSize:"30px", color: "teal"}} class="nav-link" href="#">Contact</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+                 
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
