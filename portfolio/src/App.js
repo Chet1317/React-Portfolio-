@@ -1,6 +1,10 @@
 import React from 'react';
 import './App.css';
 import "./index.css"
+import {
+  Switch,
+  Route
+} from "react-router-dom";
 
 function App() {
   return (
@@ -37,6 +41,19 @@ function App() {
   </div>
 </div>
 </div>
+
+<Container>
+  <Row>
+    <Col>1 of 3</Col>
+    <Col>2 of 3</Col>
+    <Col>3 of 3</Col>
+  </Row>
+  <Row>
+    <Col>1 of 3</Col>
+    <Col>2 of 3</Col>
+    <Col>3 of 3</Col>
+  </Row>
+</Container>
 </div>
     
   );
