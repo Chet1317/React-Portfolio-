@@ -2,7 +2,7 @@ import React from "react"
 // import './App.css';
 // import "./index.css";
 // import "./App.js"
-import "./public/eat Da.png"
+// import "./eat Da.png"
 import {
     Switch,
     Route,
@@ -11,7 +11,9 @@ import {
 
 const Portfolio = () => {
     return (
-       <div>
+   
+     
+     <div>
       
             <nav className="navbar navbar-expand-lg navbar-light">
                 <a style={{ fontFamily: "Permanent Marker", fontVariant: "small-caps", fontSize: "50px", color: "Orange" }} class="navbar-brand">Chet Martin</a>
@@ -38,18 +40,38 @@ const Portfolio = () => {
                 <div class="container">
                     <div class="row">
                     <div class="col-sm-3">
-                    <div class="card">
-                    <img class="card-img-top" src="(portfolio\public\eat Da.png)" alt="Card image cap"></img>
-                           <div class="card-body">
-                            <a href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
-                            <p class="card-text" style={{color:"white"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        </div>
+                        <div class="col-sm-3">
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
                         </div>
                         </div>
                         </div>
                         </div>
                     </div>
-                </div>
-            </div>
+   
            
     )
 }

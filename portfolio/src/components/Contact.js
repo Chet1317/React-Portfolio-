@@ -31,13 +31,24 @@ const Contact = () => {
   <div class="container">
     <div class="row">
     <div class="col-sm-3">
-    <h1 class="display-4">Full Stack Developer</h1>
-    <p class="lead">I am a Full Stack Web Developer in the Toronto area.</p>
-    <p class="lead">Check out the link to my Portfolio.</p>
-  </div>
+    <h1 class="display-4">Contact</h1>
+   
+    <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Name</label>
+            <p style={{color:"lightblue"}}>Chet Martin</p>
+            
+        <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Email</label>
+        <p style={{color:"lightblue"}}>c.chetmartin@gmail.com</p>
+            
+        {/* <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Phone</label>
+        <p style={{color:"lightblue"}}>905-259-1674</p>
+            */}
+          
+        
+     
   </div>
 </div>
 </div>
+        </div>
         </div>
     )
 }

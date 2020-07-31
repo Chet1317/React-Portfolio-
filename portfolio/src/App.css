@@ -73,5 +73,9 @@ nav{
   margin-top: 1rem;
 }
 
+element.style {
+  background-color: #00000073;
+  color: #de9220;
+}
 
 
