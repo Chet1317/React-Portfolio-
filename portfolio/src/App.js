@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import "./index.css"
+import "./index.css";
+import Container from "react-bootstrap/Container";
 import {
   Switch,
   Route
@@ -43,16 +44,11 @@ function App() {
 </div>
 
 <Container>
-  <Row>
-    <Col>1 of 3</Col>
-    <Col>2 of 3</Col>
-    <Col>3 of 3</Col>
-  </Row>
-  <Row>
-    <Col>1 of 3</Col>
-    <Col>2 of 3</Col>
-    <Col>3 of 3</Col>
-  </Row>
+  <Switch>
+    <Route path="./about">
+    <About />
+    </Route>
+  </Switch>
 </Container>
 </div>
     
