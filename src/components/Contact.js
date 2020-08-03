@@ -39,8 +39,8 @@ const Contact = () => {
               <label style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }}>Email</label>
               <p style={{ backgroundColor: "#0d0e0ea6", color: "lightblue" }}>c.chetmartin@gmail.com</p>
 
-              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://www.linkedin.com/in/chet-martin-85891a17b/">Linkedin</a>
-
+              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://www.linkedin.com/in/chet-martin-85891a17b/">LinkedIn</a>
+              <p style={{color:"lightblue"}}>My linkedIn</p>
 
               {/* <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Phone</label>
         <p style={{color:"lightblue"}}>905-259-1674</p>
