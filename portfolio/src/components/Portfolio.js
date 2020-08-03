@@ -56,12 +56,12 @@ const Portfolio = () => {
                             <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>"Me MyChef & I" is web application uses API'S from spoonacular.com, which has 2600+ indgredients and 360k+ recipes. To get started, users simply click on the "Check Your Fridge" icon. From there, you can view, add or remove food from your fridge. Once your fridge is up to date, click on the "Find Recipe" icon and recipes from spoonacular appear for the user, based on the updated fridge.</p>
                         </div>
                         <div class="col-sm-3">
-                            <a style={{color:"#de9220",fontFamily:"permanent marker", marginBottom: ""}} href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
                             <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>A mobile first web application that aims to consolidate the digital organizational tools we employ on a daily basis into one space. This app removes need for multiple applications and the flood of irrelevant information people are often bombarded with.</p>
                         </div>
                         <div class="col-sm-3">
-                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
-                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://chet1317.github.io/Web-APIs-Code-Quiz/">Code Quiz</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>Code quiz is a fun little app that quizes the user JavaScript. The timer is set at 200 seconds, when the start button is pressed, the user is presented with a question. If the user answers incorrectly, time is stripped away from the clock. A final score is presented at the end. </p>
                         </div>
                         <div class="col-sm-3">
                             <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>

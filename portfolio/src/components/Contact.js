@@ -33,11 +33,11 @@ const Contact = () => {
     <div class="col-sm-3">
     <h1 class="display-4">Contact</h1>
    
-    <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Name</label>
-            <p style={{color:"lightblue"}}>Chet Martin</p>
+    <label style={{backgroundColor:"#0d0e0ea6", color:"#de9220",fontFamily:"permanent marker"}}>Name</label>
+            <p style={{backgroundColor:"#0d0e0ea6", color:"lightblue"}}>Chet Martin</p>
             
-        <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Email</label>
-        <p style={{color:"lightblue"}}>c.chetmartin@gmail.com</p>
+        <label style={{backgroundColor:"#0d0e0ea6", color:"#de9220",fontFamily:"permanent marker"}}>Email</label>
+        <p style={{backgroundColor:"#0d0e0ea6", color:"lightblue"}}>c.chetmartin@gmail.com</p>
             
         {/* <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Phone</label>
         <p style={{color:"lightblue"}}>905-259-1674</p>
