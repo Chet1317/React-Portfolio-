@@ -66,6 +66,7 @@ const Portfolio = () => {
                         <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://fathomless-falls-34734.herokuapp.com/">Budget Tracker</a>
                             <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, both the deposits and expenses are populate to the total when brought back online. It sthe perfect app for an avid taveller whp wants to to be able to track my withdrawals and deposits with or without a data/internet connection.</p>
+                            </div>
                             <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://docs.google.com/document/d/1umUggTq-4QUxWM_Ehr8yJDAexi4vxwrCPW9o7cFrpyc/edit?usp=sharing">Resume</a>
                             <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>Find my Resume here.</p>
@@ -74,7 +75,7 @@ const Portfolio = () => {
                         </div>
                         </div>
                     </div>
-                    </div>
+                    
    
            
     )
