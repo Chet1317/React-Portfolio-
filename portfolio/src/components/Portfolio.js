@@ -53,11 +53,11 @@ const Portfolio = () => {
                         </div>
                         <div class="col-sm-3">
                             <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://lit-badlands-54539.herokuapp.com/">Me My Chef and I</a>
-                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>'Me MyChef & I' is web application uses API'S from spoonacular.com, which has 2600+ indgredients and 360k+ recipes. To get started, users simply click on the "Check Your Fridge" icon. From there, you can view, add or remove food from your fridge. Once your fridge is up to date, click on the "Find Recipe" icon and recipes from spoonacular appear for the user, based on the updated fridge.</p>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>"Me MyChef & I" is web application uses API'S from spoonacular.com, which has 2600+ indgredients and 360k+ recipes. To get started, users simply click on the "Check Your Fridge" icon. From there, you can view, add or remove food from your fridge. Once your fridge is up to date, click on the "Find Recipe" icon and recipes from spoonacular appear for the user, based on the updated fridge.</p>
                         </div>
                         <div class="col-sm-3">
-                            <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
-                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>This Burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                            <a style={{color:"#de9220",fontFamily:"permanent marker", marginBottom: ""}} href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>A mobile first web application that aims to consolidate the digital organizational tools we employ on a daily basis into one space. This app removes need for multiple applications and the flood of irrelevant information people are often bombarded with.</p>
                         </div>
                         <div class="col-sm-3">
                             <a style={{color:"#de9220",fontFamily:"permanent marker"}} href="https://still-woodland-95915.herokuapp.com/">Eat-Da-Burger</a>
