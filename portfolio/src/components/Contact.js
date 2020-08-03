@@ -52,6 +52,9 @@ const Contact = () => {
 </div>
 </div>
         </div>
+        <footer>
+  <p style={{textAlign:"center", fontFamily:"satisfy"}}>(c) Chet Martin</p>
+</footer>
         </div>
     )
 }

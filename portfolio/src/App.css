@@ -65,7 +65,7 @@ nav{
 
 .lead {
   text-align: left;
-  color: #9ca4ff;
+  color: lightblue;
   background-color: #00000096;
   font-family: monospace;
 }
@@ -87,4 +87,3 @@ element.style {
   margin-right: -15px;
   margin-left: -15px;
 }
-

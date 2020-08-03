@@ -53,7 +53,7 @@ const Portfolio = () => {
                         </div>
                         <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://lit-badlands-54539.herokuapp.com/">Me My Chef and I</a>
-                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>"Me MyChef & I" is web application uses API'S from spoonacular.com, which has 2600+ indgredients and 360k+ recipes. To get started, users simply click on the "Check Your Fridge" icon. From there, you can view, add or remove food from your fridge. Once your fridge is up to date, click on the "Find Recipe" icon and recipes from spoonacular appear for the user, based on the updated fridge.</p>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>"Me MyChef & I" is web application uses API'S from spoonacular.com. To get started, users simply click on the "Check Your Fridge" icon. From there, you can view, add or remove food from your fridge. Once your fridge is up to date, click on the "Find Recipe" icon and recipes from spoonacular appear for the user, based on the updated fridge.</p>
                         </div>
                         <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
@@ -65,7 +65,7 @@ const Portfolio = () => {
                         </div>
                         <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://fathomless-falls-34734.herokuapp.com/">Budget Tracker</a>
-                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, both the deposits and expenses are populate to the total when brought back online. It sthe perfect app for an avid taveller whp wants to to be able to track my withdrawals and deposits with or without a data/internet connection.</p>
+                            <p class="card-text" style={{ backgroundColor: "rgb(8 8 46 / 0.75)", color:"lightblue"}}>The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, both are populate to the total when brought back online. Great for an avid taveller who needs to track withdrawals/deposits with or without a connection.</p>
                             </div>
                             <div class="col-sm-3">
                             <a style={{backgroundColor:"#0d0e0ea6",color:"#de9220",fontFamily:"permanent marker"}} href="https://docs.google.com/document/d/1umUggTq-4QUxWM_Ehr8yJDAexi4vxwrCPW9o7cFrpyc/edit?usp=sharing">Resume</a>
@@ -74,6 +74,9 @@ const Portfolio = () => {
                         </div>
                         </div>
                         </div>
+                        <footer>
+  <p style={{textAlign:"center", fontFamily:"satisfy"}}>(c) Chet Martin</p>
+</footer>
                     </div>
                     
    
