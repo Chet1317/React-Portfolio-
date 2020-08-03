@@ -21,8 +21,11 @@ const About = () => {
               <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/portfolio">Portfolio</Link></a>
             </li>
             <li class="nav-item">
-              <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/contact">Contact</Link></a>
+              <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/contact">Contac</Link></a>
             </li>
+            <li class="nav-item">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+      </li>
           </ul>
         </div>
       </nav>
