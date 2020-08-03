@@ -33,11 +33,14 @@ const About = () => {
     <div class="col-sm-3">
     <h1 class="display-4">Full Stack Developer</h1>
     <p class="lead">I am a Full Stack Web Developer in the Toronto area.</p>
+    <p class="lead">With a wide range of skills and experience in fields such as; Electrical, Fitness and Firefighter.</p>
+    <p class="lead">I love hard work, am always eager to learn and have a passion for being creative. </p>
     <p class="lead">Check out the link to my Portfolio.</p>
   </div>
   </div>
 </div>
 </div>
+
         </div>
     )
 }
