@@ -13,19 +13,16 @@ const About = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li style={{ marginLeft: "600px" }} class="nav-item active">
+          <ul class="navbar-nav ml-auto">
+            <li  class="nav-item active">
               <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link"> <Link to="/">About</Link><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
               <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/portfolio">Portfolio</Link></a>
             </li>
             <li class="nav-item">
-              <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/contact">Contac</Link></a>
+              <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px" }} class="nav-link" href="#"> <Link to="/contact">Contact</Link></a>
             </li>
-            <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
           </ul>
         </div>
       </nav>

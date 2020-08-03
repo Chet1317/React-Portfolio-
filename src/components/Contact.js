@@ -13,8 +13,8 @@ const Contact = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li style={{ marginLeft: "600px" }} class="nav-item active">
+          <ul class="navbar-nav ml-auto">
+            <li  class="nav-item active">
               <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px", color: "teal" }} class="nav-link" href="#"> <Link to="/">About</Link><span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
@@ -40,7 +40,7 @@ const Contact = () => {
               <p style={{ backgroundColor: "#0d0e0ea6", color: "lightblue" }}>c.chetmartin@gmail.com</p>
 
               <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://www.linkedin.com/in/chet-martin-85891a17b/">LinkedIn</a>
-              <p style={{color:"lightblue"}}>My linkedIn</p>
+              <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>My linkedIn</p>
 
               {/* <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Phone</label>
         <p style={{color:"lightblue"}}>905-259-1674</p>

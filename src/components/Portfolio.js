@@ -21,8 +21,8 @@ const Portfolio = () => {
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li style={{ marginLeft: "600px" }} class="nav-item active">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
                             <a style={{ fontFamily: "Saira Stencil One", fontSize: "30px", color: "teal" }} class="nav-link" href="#"> <Link to="/">About</Link><span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
