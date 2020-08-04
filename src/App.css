@@ -87,3 +87,11 @@ element.style {
   margin-right: -15px;
   margin-left: -15px;
 }
+#burger::before{
+  background-image: url("https://user-images.githubusercontent.com/63617922/89244526-b84c1b80-d5d4-11ea-8b2f-4d79cb0dbeee.png");
+  opacity: .5;
+  position: absolute;
+}
+#burger{
+  position: relative;
+}
