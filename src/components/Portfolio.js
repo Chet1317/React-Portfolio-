@@ -41,7 +41,7 @@ const Portfolio = () => {
                     <div class="row">
                         <div class="col-md-4">
                     <div >
-                    <a style={{backgroundColor: "#000000b3", color: "green", fontFamily: "permanent marker" }} href="https://still-woodland-95915.herokuapp.com/">"click"</a>
+                    <a style={{backgroundColor: "#000000b3", color: "lime", fontFamily: "permanent marker" }} href="https://still-woodland-95915.herokuapp.com/">"click"</a>
   <img src="https://user-images.githubusercontent.com/63617922/89254065-39fb7380-d5ec-11ea-89db-52a3b142c08a.png" class="card-img-top" alt="..."></img>
   <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
     <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">EAT-DA-BURGER is a burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
