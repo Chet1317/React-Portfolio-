@@ -40,13 +40,15 @@ const Contact = () => {
               <p style={{ backgroundColor: "#0d0e0ea6", color: "lightblue" }}>c.chetmartin@gmail.com</p>
 
               <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://www.linkedin.com/in/chet-martin-85891a17b/">LinkedIn</a>
-              <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>My linkedIn</p>
+              <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>linkedIn</p>
 
-              {/* <label style={{color:"#de9220",fontFamily:"permanent marker"}}>Phone</label>
-        <p style={{color:"lightblue"}}>905-259-1674</p>
-            */}
+              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://github.com/Chet1317">Github</a>
+              <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>Github Page</p>
 
+              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://drive.google.com/file/d/105Rp62Z-NUPunh9xNqBNrxS8vBUAdugq/view?usp=sharing">Resume</a>
+              <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>Resume</p>
 
+                  
 
             </div>
           </div>

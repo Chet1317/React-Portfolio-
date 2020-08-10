@@ -39,39 +39,61 @@ const Portfolio = () => {
             <div class="jumbotron jumbotron-fluid">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-3">
-                            <a style={{backgroundColor: "#000000b3", color: "rgb(70 222 32)", fontFamily: "permanent marker" }} href="https://still-woodland-95915.herokuapp.com/">"CLICK"</a>
-                            <p class="card-text" id="burger" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.86)",  color: "lightblue" }}>EAT-DA-BURGER is a burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+                        <div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://still-woodland-95915.herokuapp.com/">EAT DA BURGER</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89254065-39fb7380-d5ec-11ea-89db-52a3b142c08a.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">EAT-DA-BURGER is a burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://afternoon-thicket-64187.herokuapp.com/">Note Taker</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89304640-aa7db100-d63b-11ea-8439-af3729246a07.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">This application can be used to write, save, and delete notes. It uses an Express backend that saves and retrieves note data from a JSON file. Keep track of your workouts, grocery lists or anything you want with this application.</p>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Server-Side-APIs-Weather-Dashboard/">Weather App</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89602907-d5cbf000-d835-11ea-83de-80bb3704bec0.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">Using OpenWeather.com API's, this application retrieves a five day weather forecast for any city you wish to search. It also inculdes the humidity perecentage, UVI and wind speed. It's the perefect app if you want to search the weather for an upcoming trip.</p>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://lit-badlands-54539.herokuapp.com/">Me My Chef and I</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89603462-2ee85380-d837-11ea-885f-e892dd16708d.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">"Me MyChef & I" is web application uses API'S from spoonacular.com. Simply click on the "Check Your Fridge" icon and you can view, add or remove food from your fridge. Update your fridge and click on the "Find Recipe" icon. Recipes will appear based on the updated fridge.</p>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }}href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89603847-f6954500-d837-11ea-87d4-ddd41adf7ae4.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">A mobile first web application that aims to consolidate the digital organizational tools we employ on a daily basis into one space. This app removes need for multiple applications and the flood of irrelevant information people are often bombarded with.</p>
+  </div>
+</div>
+</div>
+<div class="col-md-4">
+                    <div >
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Web-APIs-Code-Quiz/">Code Quiz</a>
+  <img src="https://user-images.githubusercontent.com/63617922/89604438-46c0d700-d839-11ea-86d4-cbb73ce87e49.png" class="card-img-top" alt="..."></img>
+  <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">Code quiz is a fun little app that quizes the user JavaScript. The timer is set at 200 seconds, when the start button is pressed, the user is presented with a question. If the user answers incorrectly, time is stripped away from the clock. A final score is presented at the end. </p>
+  </div>
+</div>
+</div>
 
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://afternoon-thicket-64187.herokuapp.com/">Note Taker</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange", backgroundColor: "rgb(8 8 46 / 0.86)", color: "lightblue" }}>This application can be used to write, save, and delete notes. It uses an Express backend that saves and retrieves note data from a JSON file. Keep track of your workouts, grocery lists or anything you want with this application.</p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{ backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Server-Side-APIs-Weather-Dashboard/">Weather App</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.90)", color: "lightblue" }}>Using OpenWeather.com API's, this application retrieves a five day weather forecast for any city you wish to search. It also inculdes the humidity perecentage, UVI and wind speed. It's the perefect app if you want to search the weather for an upcoming trip.</p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://lit-badlands-54539.herokuapp.com/">Me My Chef and I</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.90)",color: "lightblue" }}>"Me MyChef & I" is web application uses API'S from spoonacular.com. Simply click on the "Check Your Fridge" icon and you can view, add or remove food from your fridge. Update your fridge and click on the "Find Recipe" icon. Recipes will appear based on the updated fridge.</p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{ backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://wesycool.github.io/Project1-Edmund/Project1-Shayanne/">nutShell</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.86)", color: "lightblue" }}>A mobile first web application that aims to consolidate the digital organizational tools we employ on a daily basis into one space. This app removes need for multiple applications and the flood of irrelevant information people are often bombarded with.</p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{ backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Web-APIs-Code-Quiz/">Code Quiz</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.86)", color: "lightblue" }}>Code quiz is a fun little app that quizes the user JavaScript. The timer is set at 200 seconds, when the start button is pressed, the user is presented with a question. If the user answers incorrectly, time is stripped away from the clock. A final score is presented at the end. </p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{ backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://fathomless-falls-34734.herokuapp.com/">Budget Tracker</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.86)", color: "lightblue" }}>The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, both are populate to the total when brought back online. Great for an avid taveller who needs to track withdrawals/deposits with or without a connection.</p>
-                        </div>
-                        <div class="col-sm-3">
-                            <a style={{ backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://github.com/Chet1317" href="https://docs.google.com/document/d/1umUggTq-4QUxWM_Ehr8yJDAexi4vxwrCPW9o7cFrpyc/edit?usp=sharing">Resume & Github</a>
-                            <p class="card-text" style={{border:"inset",borderColor:"orange",  backgroundColor: "rgb(8 8 46 / 0.86)", color: "lightblue" }}>Find my Resume and Github links here.</p>
-                        </div>
                     </div>
                 </div>
             </div>
