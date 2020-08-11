@@ -10,5 +10,6 @@ React, npm install, npm build and npm serve.
 https://boiling-tundra-87912.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/63617922/89223713-47413f80-d5a5-11ea-93af-4bc8b1f66266.png)
-![image](https://user-images.githubusercontent.com/63617922/89244321-2e9c4e00-d5d4-11ea-80f9-82882c8e37f0.png)
+![image](https://user-images.githubusercontent.com/63617922/89858155-ec42b600-db6b-11ea-8921-71ce76a80f88.png)
+
 
