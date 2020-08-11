@@ -42,7 +42,7 @@ const Portfolio = () => {
                         <div class="col-md-4">
                     <div >
                     <a style={{backgroundColor: "#000000b3", color: "lime", fontFamily: "permanent marker" }} href="https://still-woodland-95915.herokuapp.com/">"click"</a>
-  <img src="https://user-images.githubusercontent.com/63617922/89254065-39fb7380-d5ec-11ea-89db-52a3b142c08a.png" class="card-img-top" alt="..."></img>
+  <img src="https://user-images.githubusercontent.com/63617922/89857726-d54f9400-db6a-11ea-8356-c0aa83835f6f.png" class="card-img-top" alt="..."></img>
   <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
     <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">EAT-DA-BURGER is a burger generating app was created with MySQL, Node, Express, Handlebars and a homemade ORM. Following the MVC design pattern; Node and MySQL were used to query and route the data and Handlebars were use to generate HTML.</p>
   </div>
@@ -60,7 +60,7 @@ const Portfolio = () => {
 <div class="col-md-4">
                     <div >
                     <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Server-Side-APIs-Weather-Dashboard/">Weather App</a>
-  <img src="https://user-images.githubusercontent.com/63617922/89602907-d5cbf000-d835-11ea-83de-80bb3704bec0.png" class="card-img-top" alt="..."></img>
+  <img src="https://user-images.githubusercontent.com/63617922/89857477-3460d900-db6a-11ea-80d1-5099a5ecedb1.png" class="card-img-top" alt="..."></img>
   <div  style={{backgroundColor:"rgb(8, 8, 46, 0.70)"}}>
     <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">Using OpenWeather.com API's, this application retrieves a five day weather forecast for any city you wish to search. It also inculdes the humidity perecentage, UVI and wind speed. It's the perefect app if you want to search the weather for an upcoming trip.</p>
   </div>
