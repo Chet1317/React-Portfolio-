@@ -62,7 +62,7 @@ const Portfolio = () => {
                     <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://chet1317.github.io/Server-Side-APIs-Weather-Dashboard/">Weather App</a>
   <img src="https://user-images.githubusercontent.com/63617922/89857477-3460d900-db6a-11ea-80d1-5099a5ecedb1.png" class="card-img-top" alt="..."></img>
   <div  style={{backgroundColor:"#0000008e"}}>
-    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">Using OpenWeather.com API's, this application retrieves a five day weather forecast for any city you wish to search. It also inculdes the humidity perecentage, UVI and wind speed. It's the perefect app if you want to search the weather for an upcoming trip.</p>
+    <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">Using OpenWeather.com API's, this application retrieves a five day weather forecast for any city you wish to search. It also includes the humidity percentage, UVI and wind speed. It's the perfect app if you want to search the weather for an upcoming trip.</p>
   </div>
 </div>
 </div>
