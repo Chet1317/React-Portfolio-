@@ -41,7 +41,7 @@ const About = () => {
         </div>
       </div>
       <footer>
-        <p style={{ textAlign: "center", fontFamily: "satisfy" }}>(c) Chet Martin</p>
+        <p style={{ color:"#de9220", textAlign: "center", fontFamily: "satisfy" }}>(c) Chet Martin</p>
       </footer>
     </div>
   )

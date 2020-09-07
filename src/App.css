@@ -110,3 +110,9 @@ element.style {
   padding-left: 3rem;
   padding-right: 3rem;
 }
+
+a {
+  color: #de9220;
+  text-decoration: none;
+  background-color: transparent;
+}
