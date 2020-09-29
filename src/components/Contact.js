@@ -45,7 +45,7 @@ const Contact = () => {
               <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://github.com/Chet1317">Github</a>
               <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>Github Page</p>
 
-              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://drive.google.com/file/d/1whgiuoXFXjBB-Vl6BhMU09DkYAeO6S7U/view?usp=sharing">Resume</a>
+              <a style={{ backgroundColor: "#0d0e0ea6", color: "#de9220", fontFamily: "permanent marker" }} href="https://drive.google.com/file/d/1W6_H6ympPGmx31tIg8VnN2lia34jhmC0/view?usp=sharing">Resume</a>
               <p style={{ backgroundColor: "#0d0e0ea6", color:"lightblue"}}>Resume</p>
 
                   
