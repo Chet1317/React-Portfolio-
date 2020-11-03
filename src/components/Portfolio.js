@@ -50,7 +50,7 @@ const Portfolio = () => {
 </div> */}
 <div class="col-md-4">
                     <div >
-                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://afternoon-thicket-64187.herokuapp.com/">Note Taker</a>
+                    <a style={{backgroundColor: "#000000b3", color: "#de9220", fontFamily: "permanent marker" }} href="https://afternoon-thicket-64187.herokuapp.com/">"Click Me"</a>
   <img src="https://user-images.githubusercontent.com/63617922/89304640-aa7db100-d63b-11ea-8439-af3729246a07.png" class="card-img-top" alt="..."></img>
   <div  style={{backgroundColor:"#0000009b"}}>
     <p style={{color:"lightblue", fontFamily:"roboto", fontSize:"14px"}} class="card-text">This application can be used to write, save and delete notes. It uses an Express backend to GET, POST and DELETE retrieved api data from a JSON file.</p>
